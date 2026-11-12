@@ -1,1 +1,2 @@
-# Kundalik №1
+# kundalik
+kundalik-nusxa
